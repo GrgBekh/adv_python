@@ -1,0 +1,71 @@
+
+Integrating with threads
+
+Result: 1.0000000261801347, Time taken: 2.284407138824463 seconds with 1 threads
+Result: 1.0000000261799615, Time taken: 2.3122549057006836 seconds with 2 threads
+Result: 1.0000000261799338, Time taken: 2.346517324447632 seconds with 3 threads
+Result: 1.0000000261799145, Time taken: 2.3373758792877197 seconds with 4 threads
+Result: 1.0000000261799193, Time taken: 2.464055299758911 seconds with 5 threads
+Result: 1.0000000261799282, Time taken: 2.2823386192321777 seconds with 6 threads
+Result: 1.0000000261799633, Time taken: 2.3313519954681396 seconds with 7 threads
+Result: 1.000000026179942, Time taken: 2.272123098373413 seconds with 8 threads
+Result: 1.0000000261799329, Time taken: 2.2558999061584473 seconds with 9 threads
+Result: 1.0000000261799145, Time taken: 2.317340135574341 seconds with 10 threads
+Result: 1.000000026179949, Time taken: 2.305079221725464 seconds with 11 threads
+Result: 1.0000000261799324, Time taken: 2.3626179695129395 seconds with 12 threads
+Result: 1.0000000261799598, Time taken: 2.3277711868286133 seconds with 13 threads
+Result: 1.000000026179948, Time taken: 2.3348848819732666 seconds with 14 threads
+Result: 1.0000000261799322, Time taken: 2.3042705059051514 seconds with 15 threads
+Result: 1.0000000261799264, Time taken: 2.304579019546509 seconds with 16 threads
+Result: 1.0000000261799518, Time taken: 2.315906047821045 seconds with 17 threads
+Result: 1.0000000261799455, Time taken: 2.2743470668792725 seconds with 18 threads
+Result: 1.0000000261799427, Time taken: 2.23266863822937 seconds with 19 threads
+Result: 1.0000000261799287, Time taken: 2.2837038040161133 seconds with 20 threads
+Result: 1.0000000261799393, Time taken: 2.355321168899536 seconds with 21 threads
+Result: 1.0000000261799358, Time taken: 2.462069511413574 seconds with 22 threads
+Result: 1.0000000261799307, Time taken: 2.699725866317749 seconds with 23 threads
+Result: 1.000000026179935, Time taken: 2.2683651447296143 seconds with 24 threads
+Result: 1.0000000261799316, Time taken: 2.280834674835205 seconds with 25 threads
+Result: 1.0000000261799313, Time taken: 2.37508225440979 seconds with 26 threads
+Result: 1.000000026179946, Time taken: 2.2491602897644043 seconds with 27 threads
+Result: 1.0000000261799364, Time taken: 2.2151663303375244 seconds with 28 threads
+Result: 1.0000000261799404, Time taken: 2.2095279693603516 seconds with 29 threads
+Result: 1.0000000261799278, Time taken: 2.2829394340515137 seconds with 30 threads
+Result: 1.0000000261799495, Time taken: 2.2818877696990967 seconds with 31 threads
+Result: 1.0000000261799291, Time taken: 2.3545782566070557 seconds with 32 threads
+
+
+Integrating with processes
+
+Result: 1.0000000261801347, Time taken: 2.3792507648468018 seconds with 1 processes
+Result: 1.0000000261799615, Time taken: 1.2682898044586182 seconds with 2 processes
+Result: 1.000000026179934, Time taken: 0.9699110984802246 seconds with 3 processes
+Result: 1.0000000261799142, Time taken: 0.8931338787078857 seconds with 4 processes
+Result: 1.0000000261799193, Time taken: 0.8262417316436768 seconds with 5 processes
+Result: 1.000000026179928, Time taken: 0.8473289012908936 seconds with 6 processes
+Result: 1.000000026179963, Time taken: 0.8621928691864014 seconds with 7 processes
+Result: 1.0000000261799418, Time taken: 0.9525332450866699 seconds with 8 processes
+Result: 1.0000000261799329, Time taken: 1.029557704925537 seconds with 9 processes
+Result: 1.0000000261799147, Time taken: 1.0640654563903809 seconds with 10 processes
+Result: 1.000000026179949, Time taken: 1.1943135261535645 seconds with 11 processes
+Result: 1.0000000261799324, Time taken: 1.1194987297058105 seconds with 12 processes
+Result: 1.0000000261799595, Time taken: 1.1138770580291748 seconds with 13 processes
+Result: 1.000000026179948, Time taken: 1.1293423175811768 seconds with 14 processes
+Result: 1.0000000261799322, Time taken: 1.1400139331817627 seconds with 15 processes
+Result: 1.0000000261799264, Time taken: 1.1232352256774902 seconds with 16 processes
+Result: 1.0000000261799515, Time taken: 1.1783967018127441 seconds with 17 processes
+Result: 1.0000000261799455, Time taken: 1.177201509475708 seconds with 18 processes
+Result: 1.000000026179943, Time taken: 1.2031264305114746 seconds with 19 processes
+Result: 1.0000000261799287, Time taken: 1.2689340114593506 seconds with 20 processes
+Result: 1.0000000261799395, Time taken: 1.3223199844360352 seconds with 21 processes
+Result: 1.0000000261799358, Time taken: 1.3103489875793457 seconds with 22 processes
+Result: 1.0000000261799307, Time taken: 1.3630716800689697 seconds with 23 processes
+Result: 1.000000026179935, Time taken: 1.3411459922790527 seconds with 24 processes
+Result: 1.0000000261799316, Time taken: 1.3672747611999512 seconds with 25 processes
+Result: 1.0000000261799313, Time taken: 1.4102861881256104 seconds with 26 processes
+Result: 1.000000026179946, Time taken: 1.3768885135650635 seconds with 27 processes
+Result: 1.0000000261799364, Time taken: 1.3919754028320312 seconds with 28 processes
+Result: 1.0000000261799404, Time taken: 1.4206762313842773 seconds with 29 processes
+Result: 1.0000000261799278, Time taken: 1.4959003925323486 seconds with 30 processes
+Result: 1.0000000261799498, Time taken: 1.5149004459381104 seconds with 31 processes
+Result: 1.0000000261799293, Time taken: 1.6790883541107178 seconds with 32 processes

@@ -1,0 +1,12 @@
+[2024-03-25 11:51:29] Enter a message (type 'exit' to stop): ABC
+[2024-03-25 11:51:32] Enter a message (type 'exit' to stop): [2024-03-25 11:51:32] Processed message: nop
+asdnjas
+[2024-03-25 11:51:33] Enter a message (type 'exit' to stop): asfkjaslkd
+[2024-03-25 11:51:33] Enter a message (type 'exit' to stop): asfdjkalsjd
+[2024-03-25 11:51:34] Enter a message (type 'exit' to stop): asdjaskjd
+[2024-03-25 11:51:35] Enter a message (type 'exit' to stop): [2024-03-25 11:51:37] Processed message: nfqawnf
+[2024-03-25 11:51:42] Processed message: nfsxwnfyxq
+[2024-03-25 11:51:47] Processed message: nfsqwxnyfwq
+[2024-03-25 11:51:52] Processed message: nfqwnfxwq
+exit
+Shutting down...
